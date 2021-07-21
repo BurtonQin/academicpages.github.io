@@ -29,6 +29,10 @@ Work experience
 * Spring 2021: Intern
   * China Telecom Cloud Computing Corp.
   * Duties included: Distributed Systems
+
+* 2021.07-now: R&D Engineer
+  * China Telecom Cloud Computing Corp.
+  * Duties included: Distributed Systems
   
 Skills
 ======

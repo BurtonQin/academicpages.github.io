@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qin Boqin / R&D Engineer"
+title                    : "Boqin Qin / R&D Engineer"
 title_separator          : "-"
-name                     : &name "Boqin Qin"
+name                     : &name "Boqin Qin(秦 伯钦)"
 description              : &description "personal description"
 url                      : https://burtonqin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

@@ -1,7 +1,7 @@
 ---
 title: "An Adaptive Encryption-as-a-Service Architecture Based on Fog Computing for Real-Time Substation Communications"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2019-10-17-mxsorts-tii-3
 excerpt: 'We present a novel encryption-as-a-service architecture based on fog computing.'
 date: 2019-10-17
 venue: 'IEEE Transactions on Industrial Informatics, 16(1), 658-668'

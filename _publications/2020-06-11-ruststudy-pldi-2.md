@@ -1,7 +1,7 @@
 ---
 title: "Understanding memory and thread safety practices and issues in real-world Rust programs"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2020-06-11-ruststudy-pldi-2
 excerpt: 'Our study reveals interesting real-world Rust program behaviors and new issues Rust programmers make.'
 date: 2020-06-11
 venue: 'PLDI 2020: Proceedings of the 41st ACM SIGPLAN Conference on Programming Language Design and ImplementationJune 2020 Pages 763–779'
