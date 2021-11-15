@@ -35,5 +35,7 @@ Publications:
    Boqin Qin*, Yilun Chen*, Zeming Yu, Linhai Song and Yiying Zhang. PLDI'2020
 5. Measuring and Modeling the Label Dynamics of Online Anti-Malware Engines
    Shuofei Zhu, Jianjun Shi, Limin Yang, Boqin Qin, Ziyi Zhang, Linhai Song and Gang Wang. USENIX Security'2020
+6. An Adaptive Encryption-as-a-Service Architecture Based on Fog Computing for Real-Time Substation Communications
+   Hua Zhang, Boqin Qin, Tengfei Tu, Ziqing Guo, Fei Gao and Qiaoyan Wen. IEEE Transactions on Industrial Informatics, 16(1), 658-668.
 
 See [Publications](https://burtonqin.github.io/publications) for more details.
