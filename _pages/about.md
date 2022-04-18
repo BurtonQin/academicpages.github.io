@@ -25,17 +25,19 @@ I am very lucky to work with Prof [Linhai Song](https://songlh.github.io/) durin
 Mentored by Prof Song, I am honored to be the first author of *Algorithmic Profiling for Real-World Complexity Problems* published in TSE and the co-first author with Yilun Chen of *Understanding Memory and Thread Safety Practices and Issues in Real-World Rust Programs* published in PLDI'20.
 
 Publications:
-1. Algorithmic Profiling for Real-World Complexity Problems
-    Boqin Qin, Tengfei Tu, Ziheng Liu, Tingting Yu and Linhai Song. TSE'2021 
-2. Automatically Detecting and Fixing Concurrency Bugs in Go Software Systems
+1. Learning and Programming Challenges of Rust: A Mixed-Methods Study
+   Shuofei Zhu, Ziyi Zhang, Boqin Qin, Aiping Xiong and Linhai Song. ICSE'2022
+2. Algorithmic Profiling for Real-World Complexity Problems
+   Boqin Qin, Tengfei Tu, Ziheng Liu, Tingting Yu and Linhai Song. TSE'2021, Journal-First ICSE'2022
+3. Automatically Detecting and Fixing Concurrency Bugs in Go Software Systems
    Ziheng Liu, Shuofei Zhu, Boqin Qin, Hao Chen and Linhai Song. ASPLOS'2021
-3. VRLifeTime: An IDE Tool to Avoid Concurrency and Memory Bugs in Rust
+4. VRLifeTime: An IDE Tool to Avoid Concurrency and Memory Bugs in Rust
    Ziyi Zhang, Boqin Qin, Yilun Chen, Linhai Song and Yiying Zhang. Demo@CCS'2020
-4. Understanding Memory and Thread Safety Practices and Issues in Real-World Rust Programs
+5. Understanding Memory and Thread Safety Practices and Issues in Real-World Rust Programs
    Boqin Qin*, Yilun Chen*, Zeming Yu, Linhai Song and Yiying Zhang. PLDI'2020
-5. Measuring and Modeling the Label Dynamics of Online Anti-Malware Engines
+6. Measuring and Modeling the Label Dynamics of Online Anti-Malware Engines
    Shuofei Zhu, Jianjun Shi, Limin Yang, Boqin Qin, Ziyi Zhang, Linhai Song and Gang Wang. USENIX Security'2020
-6. An Adaptive Encryption-as-a-Service Architecture Based on Fog Computing for Real-Time Substation Communications
+7. An Adaptive Encryption-as-a-Service Architecture Based on Fog Computing for Real-Time Substation Communications
    Hua Zhang, Boqin Qin, Tengfei Tu, Ziqing Guo, Fei Gao and Qiaoyan Wen. IEEE Transactions on Industrial Informatics, 16(1), 658-668.
 
 See [Publications](https://burtonqin.github.io/publications) for more details.
